@@ -4,4 +4,6 @@ format: html
 editor: visual
 ---
 
-## Hi Sam! 
+## Hi Sam!
+
+Here's an update, cool.
